@@ -204,6 +204,8 @@ canvas {
 
 .form-section {
   margin-top: 9em;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 ::-webkit-selection {
@@ -1358,7 +1360,7 @@ body.offcanvas .nav-toggle {
 #about .about-img-box .about-img {
   background-image: url(../images/banner03-min.jpg);
   width: 100% !important;
-  height: 390px;
+  height: 420px;
   position: absolute;
   top: 85px;
   right: -110px;
