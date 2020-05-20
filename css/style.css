@@ -1190,6 +1190,12 @@ body.offcanvas .nav-toggle {
   font-family: "Quicksand", Arial, sans-serif;
 }
 
+#banner .flexslider .slider-text>.slider-text-inner h3.hello {
+  color: #00ebab;
+    margin-bottom: -5px;
+    font-size: 25px;
+}
+
 #banner .flexslider .slider-text>.slider-text-inner h2 {
   margin-bottom: 10px;
   font-size: 70px;
@@ -1906,6 +1912,10 @@ body.offcanvas .nav-toggle {
 #blog .blog-entry .desc h3 a {
   color: #fff;
   text-decoration: none;
+}
+
+.desc .hello {
+  color: #00ebab;
 }
 
 #blog .blog-entry .desc span {
