@@ -631,7 +631,7 @@ body.offcanvas .nav-toggle {
 .btn-primary:focus {
   background: #00ebab;
   border-color: #00ebab;
-  color: #000;
+  color: #fff;
 }
 
 .btn-primary:active {
