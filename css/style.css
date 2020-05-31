@@ -1227,7 +1227,7 @@ body.offcanvas .nav-toggle {
 
 @media screen and (max-width: 768px) {
   #banner .flexslider .slider-text>.slider-text-inner h3 span {
-    font-size: 20px;
+    font-size: 17px;
   }
 }
 
@@ -2121,6 +2121,7 @@ body.offcanvas .nav-toggle {
   #main-footer {
     padding: 20px;
     background: #000;
+    text-align: center;
   }
 }
 
